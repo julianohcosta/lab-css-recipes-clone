@@ -17,6 +17,7 @@
     5. Improve text rendering
   */
   body {
+    font-family: Helvetica, Arial, sans-serif;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
   }
